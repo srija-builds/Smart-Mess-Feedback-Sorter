@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.env
+.venv/
+mess_app.db
+results.csv
+urgent.csv
+summary.txt
